@@ -1,6 +1,7 @@
 # Fluff & Puff 🐾
 
-<img width="1012" height="890" alt="Fluff   Puff" src="https://github.com/user-attachments/assets/77bfdea1-17ac-4989-a771-c3cac530d532" /
+<img width="1012" height="890" alt="Fluff   Puff" src="https://github.com/user-attachments/assets/46008f5b-7fb2-40a4-a004-c7d0d7ca96b7" />
+
 
 ---
 
